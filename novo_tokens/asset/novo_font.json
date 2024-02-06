@@ -1,0 +1,22 @@
+{
+  "asset": {
+    "font": {       
+      "light": {
+        "name" : { "value": "abc ginto light" },
+        "ttf"  : { "value": "assets/fonts/abc_ginto_light.otf" }
+      },
+      "bold": {
+        "name" : { "value": "abc ginto bold" },
+        "ttf"  : { "value": "assets/fonts/abc_ginto_bold.otf" }
+      },
+      "medium": {
+        "name" : { "value": "abc ginto medium" },
+        "ttf"  : { "value": "assets/fonts/abc_ginto_medium.otf" }
+      },
+      "normal_regular": {
+        "name" : { "value": "abc ginto normal regular" },
+        "ttf"  : { "value": "assets/fonts/abc_ginto_normal_aka_regular.otf" }
+      }
+   }
+  }
+}

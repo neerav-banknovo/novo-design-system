@@ -1,0 +1,31 @@
+{
+  "color": {
+    "background": {
+      "base":         { "value":"{color.base.white.0.value}"},      
+      "disabled":     { "value":"{color.base.blue.100.value}"},      
+      "success":      { "value":"{color.base.green.100.value}"},
+      "error":        { "value":"{color.base.red.100.value}"},
+      "warning":      { "value":"{color.base.orng.100.value}"},
+      "info":         { "value":"{color.base.blue.100.value}"},
+
+      "button": {
+        "primary": {
+          "base":     { "value": "{color.brand.secondary.base.value}" },
+          "disabled": { "value": "{color.brand.secondary.light.value}" },
+          "active":   { "value": "{color.brand.secondary.base.value}" }
+        },
+
+        "secondary": {
+          "base":     { "value": "{color.brand.primary.base.value}" },
+          "disabled": { "value": "{color.brand.primary.light.value}" },
+          "active":   { "value": "{color.brand.primary.base.value}" }
+        }
+      },
+
+      "overlay": {
+        "light": { "value": "#D8D8D899" },
+        "dark":  { "value": "#00000044" }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "font": {
+    "family": {
+      "base": {
+        "value": "{asset.font.normal_regular.name.value}"
+      },
+      "light": {
+        "value": "{asset.font.light.name.value}"
+      },
+      "medium": {
+        "value": "{asset.font.medium.name.value}"
+      },
+      "bold": {
+        "value": "{asset.font.bold.name.value}"
+      }
+    }
+  }
+}

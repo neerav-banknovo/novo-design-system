@@ -1,0 +1,6499 @@
+{
+  "color": {
+    "bg": {
+      "btn": {
+        "primary": {
+          "default": {
+            "value": "#ff2f68f1",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.blue.500}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_primary_default",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "primary",
+              "state": "default"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "primary",
+              "default"
+            ]
+          },
+          "hover": {
+            "value": "#ff2053d0",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.blue.600}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_primary_hover",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "primary",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "primary",
+              "hover"
+            ]
+          },
+          "pressed": {
+            "value": "#ff133ca3",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.blue.700}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_primary_pressed",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "primary",
+              "state": "pressed"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "primary",
+              "pressed"
+            ]
+          },
+          "focus": {
+            "value": "#ff2f68f1",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.blue.500}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_primary_focus",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "primary",
+              "state": "focus"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "primary",
+              "focus"
+            ]
+          },
+          "disabled": {
+            "value": "#ffc6c6c6",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.ntrl.200}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_primary_disabled",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "primary",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "primary",
+              "disabled"
+            ]
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "#ffffffff",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.white.0}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_secondary_default",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "secondary",
+              "state": "default"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "secondary",
+              "default"
+            ]
+          },
+          "hover": {
+            "value": "#ffecf4ff",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.blue.50}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_secondary_hover",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "secondary",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "secondary",
+              "hover"
+            ]
+          },
+          "pressed": {
+            "value": "#ffcee4ff",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.blue.100}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_secondary_pressed",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "secondary",
+              "state": "pressed"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "secondary",
+              "pressed"
+            ]
+          },
+          "focus": {
+            "value": "#ffffffff",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.white.0}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_secondary_focus",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "secondary",
+              "state": "focus"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "secondary",
+              "focus"
+            ]
+          },
+          "disabled": {
+            "value": "#ffe2e1e1",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.ntrl.100}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_secondary_disabled",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "secondary",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "secondary",
+              "disabled"
+            ]
+          }
+        },
+        "tertiary": {
+          "hover": {
+            "value": "#ffecf4ff",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.blue.50}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_tertiary_hover",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "tertiary",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "tertiary",
+              "hover"
+            ]
+          },
+          "pressed": {
+            "value": "#ffcee4ff",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.blue.100}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_tertiary_pressed",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "tertiary",
+              "state": "pressed"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "tertiary",
+              "pressed"
+            ]
+          }
+        },
+        "destructive": {
+          "default": {
+            "value": "#ffe11b18",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.red.500}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_destructive_default",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "destructive",
+              "state": "default"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "destructive",
+              "default"
+            ]
+          },
+          "hover": {
+            "value": "#ffbf0207",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.red.600}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_destructive_hover",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "destructive",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "destructive",
+              "hover"
+            ]
+          },
+          "pressed": {
+            "value": "#ff910000",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.red.700}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_destructive_pressed",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "destructive",
+              "state": "pressed"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "destructive",
+              "pressed"
+            ]
+          },
+          "focus": {
+            "value": "#ffe11b18",
+            "type": "color",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{color.red.500}",
+              "type": "color"
+            },
+            "name": "color_bg_btn_destructive_focus",
+            "attributes": {
+              "category": "color",
+              "type": "bg",
+              "item": "btn",
+              "subitem": "destructive",
+              "state": "focus"
+            },
+            "path": [
+              "color",
+              "bg",
+              "btn",
+              "destructive",
+              "focus"
+            ]
+          }
+        }
+      },
+      "input": {
+        "default": {
+          "value": "#ffffffff",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.white.0}",
+            "type": "color"
+          },
+          "name": "color_bg_input_default",
+          "attributes": {
+            "category": "color",
+            "type": "bg",
+            "item": "input",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "bg",
+            "input",
+            "default"
+          ]
+        },
+        "hover": {
+          "value": "#fff4f9ff",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.10}",
+            "type": "color"
+          },
+          "name": "color_bg_input_hover",
+          "attributes": {
+            "category": "color",
+            "type": "bg",
+            "item": "input",
+            "subitem": "hover"
+          },
+          "path": [
+            "color",
+            "bg",
+            "input",
+            "hover"
+          ]
+        },
+        "selected": {
+          "value": "#fff4f9ff",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.10}",
+            "type": "color"
+          },
+          "name": "color_bg_input_selected",
+          "attributes": {
+            "category": "color",
+            "type": "bg",
+            "item": "input",
+            "subitem": "selected"
+          },
+          "path": [
+            "color",
+            "bg",
+            "input",
+            "selected"
+          ]
+        },
+        "disabled": {
+          "value": "#ffe2e1e1",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.ntrl.100}",
+            "type": "color"
+          },
+          "name": "color_bg_input_disabled",
+          "attributes": {
+            "category": "color",
+            "type": "bg",
+            "item": "input",
+            "subitem": "disabled"
+          },
+          "path": [
+            "color",
+            "bg",
+            "input",
+            "disabled"
+          ]
+        },
+        "error": {
+          "value": "#fffff7f5",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.red.10}",
+            "type": "color"
+          },
+          "name": "color_bg_input_error",
+          "attributes": {
+            "category": "color",
+            "type": "bg",
+            "item": "input",
+            "subitem": "error"
+          },
+          "path": [
+            "color",
+            "bg",
+            "input",
+            "error"
+          ]
+        }
+      }
+    },
+    "text": {
+      "btn": {
+        "default": {
+          "value": "#ffffffff",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.white.0}",
+            "type": "color"
+          },
+          "name": "color_text_btn_default",
+          "attributes": {
+            "category": "color",
+            "type": "text",
+            "item": "btn",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "text",
+            "btn",
+            "default"
+          ]
+        },
+        "inverse": {
+          "value": "#ff2f68f1",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "name": "color_text_btn_inverse",
+          "attributes": {
+            "category": "color",
+            "type": "text",
+            "item": "btn",
+            "subitem": "inverse"
+          },
+          "path": [
+            "color",
+            "text",
+            "btn",
+            "inverse"
+          ]
+        },
+        "disabled": {
+          "value": "#ff727272",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.ntrl.500}",
+            "type": "color"
+          },
+          "name": "color_text_btn_disabled",
+          "attributes": {
+            "category": "color",
+            "type": "text",
+            "item": "btn",
+            "subitem": "disabled"
+          },
+          "path": [
+            "color",
+            "text",
+            "btn",
+            "disabled"
+          ]
+        }
+      },
+      "input": {
+        "placeholder": {
+          "value": "#ff727272",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true
+        },
+        "value": {
+          "value": "#ff1b1a1a",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true
+        },
+        "title": {
+          "value": "#ff1b1a1a",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true
+        },
+        "caption": {
+          "value": "#ff727272",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true
+        },
+        "error": {
+          "value": "#ffe11b18",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true
+        },
+        "hover": {
+          "value": "#ff2f68f1",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true
+        },
+        "filePath": "tokens/component-input.json",
+        "isSource": true,
+        "original": {
+          "placeholder": {
+            "value": "{color.ntrl.500}",
+            "type": "color",
+            "filePath": "tokens/component-input.json",
+            "isSource": true
+          },
+          "value": {
+            "value": "{color.ntrl.900}",
+            "type": "color",
+            "filePath": "tokens/component-input.json",
+            "isSource": true
+          },
+          "title": {
+            "value": "{color.ntrl.900}",
+            "type": "color",
+            "filePath": "tokens/component-input.json",
+            "isSource": true
+          },
+          "caption": {
+            "value": "{color.ntrl.500}",
+            "type": "color",
+            "filePath": "tokens/component-input.json",
+            "isSource": true
+          },
+          "error": {
+            "value": "{color.red.500}",
+            "type": "color",
+            "filePath": "tokens/component-input.json",
+            "isSource": true
+          },
+          "hover": {
+            "value": "{color.blue.500}",
+            "type": "color",
+            "filePath": "tokens/component-input.json",
+            "isSource": true
+          }
+        },
+        "name": "color_text_input",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "input"
+        },
+        "path": [
+          "color",
+          "text",
+          "input"
+        ]
+      }
+    },
+    "border": {
+      "btn": {
+        "default": {
+          "value": "#ff2f68f1",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "name": "color_border_btn_default",
+          "attributes": {
+            "category": "color",
+            "type": "border",
+            "item": "btn",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "border",
+            "btn",
+            "default"
+          ]
+        },
+        "inverse": {
+          "value": "#ffffffff",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.white.0}",
+            "type": "color"
+          },
+          "name": "color_border_btn_inverse",
+          "attributes": {
+            "category": "color",
+            "type": "border",
+            "item": "btn",
+            "subitem": "inverse"
+          },
+          "path": [
+            "color",
+            "border",
+            "btn",
+            "inverse"
+          ]
+        },
+        "disabled": {
+          "value": "#ff727272",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.ntrl.500}",
+            "type": "color"
+          },
+          "name": "color_border_btn_disabled",
+          "attributes": {
+            "category": "color",
+            "type": "border",
+            "item": "btn",
+            "subitem": "disabled"
+          },
+          "path": [
+            "color",
+            "border",
+            "btn",
+            "disabled"
+          ]
+        }
+      },
+      "input": {
+        "default": {
+          "value": "#ffc6c6c6",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.ntrl.200}",
+            "type": "color"
+          },
+          "name": "color_border_input_default",
+          "attributes": {
+            "category": "color",
+            "type": "border",
+            "item": "input",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "border",
+            "input",
+            "default"
+          ]
+        },
+        "hover": {
+          "value": "#ffa1c9ff",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.200}",
+            "type": "color"
+          },
+          "name": "color_border_input_hover",
+          "attributes": {
+            "category": "color",
+            "type": "border",
+            "item": "input",
+            "subitem": "hover"
+          },
+          "path": [
+            "color",
+            "border",
+            "input",
+            "hover"
+          ]
+        },
+        "selected": {
+          "value": "#ffa1c9ff",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.200}",
+            "type": "color"
+          },
+          "name": "color_border_input_selected",
+          "attributes": {
+            "category": "color",
+            "type": "border",
+            "item": "input",
+            "subitem": "selected"
+          },
+          "path": [
+            "color",
+            "border",
+            "input",
+            "selected"
+          ]
+        },
+        "disabled": {
+          "value": "#ffc6c6c6",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.ntrl.200}",
+            "type": "color"
+          },
+          "name": "color_border_input_disabled",
+          "attributes": {
+            "category": "color",
+            "type": "border",
+            "item": "input",
+            "subitem": "disabled"
+          },
+          "path": [
+            "color",
+            "border",
+            "input",
+            "disabled"
+          ]
+        },
+        "error": {
+          "value": "#ffe11b18",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.red.500}",
+            "type": "color"
+          },
+          "name": "color_border_input_error",
+          "attributes": {
+            "category": "color",
+            "type": "border",
+            "item": "input",
+            "subitem": "error"
+          },
+          "path": [
+            "color",
+            "border",
+            "input",
+            "error"
+          ]
+        }
+      }
+    },
+    "icon": {
+      "btn": {
+        "default": {
+          "value": "#ffffffff",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.white.0}",
+            "type": "color"
+          },
+          "name": "color_icon_btn_default",
+          "attributes": {
+            "category": "color",
+            "type": "icon",
+            "item": "btn",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "icon",
+            "btn",
+            "default"
+          ]
+        },
+        "inverse": {
+          "value": "#ff2f68f1",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "name": "color_icon_btn_inverse",
+          "attributes": {
+            "category": "color",
+            "type": "icon",
+            "item": "btn",
+            "subitem": "inverse"
+          },
+          "path": [
+            "color",
+            "icon",
+            "btn",
+            "inverse"
+          ]
+        },
+        "disabled": {
+          "value": "#ff727272",
+          "type": "color",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.ntrl.500}",
+            "type": "color"
+          },
+          "name": "color_icon_btn_disabled",
+          "attributes": {
+            "category": "color",
+            "type": "icon",
+            "item": "btn",
+            "subitem": "disabled"
+          },
+          "path": [
+            "color",
+            "icon",
+            "btn",
+            "disabled"
+          ]
+        }
+      },
+      "input": {
+        "default": {
+          "value": "#ff1b1a1a",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.ntrl.900}",
+            "type": "color"
+          },
+          "name": "color_icon_input_default",
+          "attributes": {
+            "category": "color",
+            "type": "icon",
+            "item": "input",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "icon",
+            "input",
+            "default"
+          ]
+        },
+        "info": {
+          "value": "#ff2f68f1",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "name": "color_icon_input_info",
+          "attributes": {
+            "category": "color",
+            "type": "icon",
+            "item": "input",
+            "subitem": "info"
+          },
+          "path": [
+            "color",
+            "icon",
+            "input",
+            "info"
+          ]
+        }
+      }
+    },
+    "selected-indicator": {
+      "input": {
+        "default": {
+          "value": "#ff2f68f1",
+          "type": "color",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "name": "color_selected_indicator_input_default",
+          "attributes": {
+            "category": "color",
+            "type": "selected-indicator",
+            "item": "input",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "selected-indicator",
+            "input",
+            "default"
+          ]
+        }
+      }
+    },
+    "blue": {
+      "10": {
+        "value": "#fff4f9ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f4f9ff",
+          "type": "color"
+        },
+        "name": "color_blue_10",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "10"
+        },
+        "path": [
+          "color",
+          "blue",
+          "10"
+        ]
+      },
+      "50": {
+        "value": "#ffecf4ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ecf4ff",
+          "type": "color"
+        },
+        "name": "color_blue_50",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "50"
+        },
+        "path": [
+          "color",
+          "blue",
+          "50"
+        ]
+      },
+      "100": {
+        "value": "#ffcee4ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#cee4ff",
+          "type": "color"
+        },
+        "name": "color_blue_100",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "blue",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#ffa1c9ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#a1c9ff",
+          "type": "color"
+        },
+        "name": "color_blue_200",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "blue",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#ff89b9ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#89b9ff",
+          "type": "color"
+        },
+        "name": "color_blue_300",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "blue",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#ff508cff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#508cff",
+          "type": "color"
+        },
+        "name": "color_blue_400",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "blue",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#ff2f68f1",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#2f68f1",
+          "type": "color"
+        },
+        "name": "color_blue_500",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "blue",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#ff2053d0",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#2053d0",
+          "type": "color"
+        },
+        "name": "color_blue_600",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "blue",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#ff133ca3",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#133ca3",
+          "type": "color"
+        },
+        "name": "color_blue_700",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "blue",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#ff092877",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#092877",
+          "type": "color"
+        },
+        "name": "color_blue_800",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "blue",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#ff03164b",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#03164b",
+          "type": "color"
+        },
+        "name": "color_blue_900",
+        "attributes": {
+          "category": "color",
+          "type": "blue",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "blue",
+          "900"
+        ]
+      }
+    },
+    "ntrl": {
+      "10": {
+        "value": "#fff9f9f9",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f9f9f9",
+          "type": "color"
+        },
+        "name": "color_ntrl_10",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "10"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "10"
+        ]
+      },
+      "50": {
+        "value": "#fff4f4f4",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f4f4f4",
+          "type": "color"
+        },
+        "name": "color_ntrl_50",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "50"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "50"
+        ]
+      },
+      "100": {
+        "value": "#ffe2e1e1",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e2e1e1",
+          "type": "color"
+        },
+        "name": "color_ntrl_100",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#ffc6c6c6",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#c6c6c6",
+          "type": "color"
+        },
+        "name": "color_ntrl_200",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#ffb7b7b7",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#b7b7b7",
+          "type": "color"
+        },
+        "name": "color_ntrl_300",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#ff908f8f",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#908f8f",
+          "type": "color"
+        },
+        "name": "color_ntrl_400",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#ff727272",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#727272",
+          "type": "color"
+        },
+        "name": "color_ntrl_500",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#ff5e5d5d",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#5e5d5d",
+          "type": "color"
+        },
+        "name": "color_ntrl_600",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#ff464545",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#464545",
+          "type": "color"
+        },
+        "name": "color_ntrl_700",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#ff302f2f",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#302f2f",
+          "type": "color"
+        },
+        "name": "color_ntrl_800",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#ff1b1a1a",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#1b1a1a",
+          "type": "color"
+        },
+        "name": "color_ntrl_900",
+        "attributes": {
+          "category": "color",
+          "type": "ntrl",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "ntrl",
+          "900"
+        ]
+      }
+    },
+    "prpl": {
+      "10": {
+        "value": "#fffaf8ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#faf8ff",
+          "type": "color"
+        },
+        "name": "color_prpl_10",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "10"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "10"
+        ]
+      },
+      "50": {
+        "value": "#fff8f2ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f8f2ff",
+          "type": "color"
+        },
+        "name": "color_prpl_50",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "50"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "50"
+        ]
+      },
+      "100": {
+        "value": "#ffebdaff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ebdaff",
+          "type": "color"
+        },
+        "name": "color_prpl_100",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#ffdab8ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#dab8ff",
+          "type": "color"
+        },
+        "name": "color_prpl_200",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#ffcfa5ff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#cfa5ff",
+          "type": "color"
+        },
+        "name": "color_prpl_300",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#ffb071f7",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#b071f7",
+          "type": "color"
+        },
+        "name": "color_prpl_400",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#ff954ddb",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#954ddb",
+          "type": "color"
+        },
+        "name": "color_prpl_500",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#ff7e39be",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#7e39be",
+          "type": "color"
+        },
+        "name": "color_prpl_600",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#ff602695",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#602695",
+          "type": "color"
+        },
+        "name": "color_prpl_700",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#ff45166d",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#45166d",
+          "type": "color"
+        },
+        "name": "color_prpl_800",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#ff290945",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#290945",
+          "type": "color"
+        },
+        "name": "color_prpl_900",
+        "attributes": {
+          "category": "color",
+          "type": "prpl",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "prpl",
+          "900"
+        ]
+      }
+    },
+    "green": {
+      "10": {
+        "value": "#fff0fcf5",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#f0fcf5",
+          "type": "color"
+        },
+        "name": "color_green_10",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "10"
+        },
+        "path": [
+          "color",
+          "green",
+          "10"
+        ]
+      },
+      "50": {
+        "value": "#ffd8fbe8",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#d8fbe8",
+          "type": "color"
+        },
+        "name": "color_green_50",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "50"
+        },
+        "path": [
+          "color",
+          "green",
+          "50"
+        ]
+      },
+      "100": {
+        "value": "#ff9bf3c7",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#9bf3c7",
+          "type": "color"
+        },
+        "name": "color_green_100",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "green",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#ff4ddea1",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#4ddea1",
+          "type": "color"
+        },
+        "name": "color_green_200",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "green",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#ff24d091",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#24d091",
+          "type": "color"
+        },
+        "name": "color_green_300",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "green",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#ff00a46c",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#00a46c",
+          "type": "color"
+        },
+        "name": "color_green_400",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "green",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#ff008353",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#008353",
+          "type": "color"
+        },
+        "name": "color_green_500",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "green",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#ff006c43",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#006c43",
+          "type": "color"
+        },
+        "name": "color_green_600",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "green",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#ff005030",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#005030",
+          "type": "color"
+        },
+        "name": "color_green_700",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "green",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#ff003820",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#003820",
+          "type": "color"
+        },
+        "name": "color_green_800",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "green",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#ff002011",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#002011",
+          "type": "color"
+        },
+        "name": "color_green_900",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "green",
+          "900"
+        ]
+      }
+    },
+    "orng": {
+      "10": {
+        "value": "#fffff8f3",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fff8f3",
+          "type": "color"
+        },
+        "name": "color_orng_10",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "10"
+        },
+        "path": [
+          "color",
+          "orng",
+          "10"
+        ]
+      },
+      "50": {
+        "value": "#fffff2e6",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fff2e6",
+          "type": "color"
+        },
+        "name": "color_orng_50",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "50"
+        },
+        "path": [
+          "color",
+          "orng",
+          "50"
+        ]
+      },
+      "100": {
+        "value": "#ffffdcba",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffdcba",
+          "type": "color"
+        },
+        "name": "color_orng_100",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "orng",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#ffffb879",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffb879",
+          "type": "color"
+        },
+        "name": "color_orng_200",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "orng",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#ffffa14f",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffa14f",
+          "type": "color"
+        },
+        "name": "color_orng_300",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "orng",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#ffe07100",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e07100",
+          "type": "color"
+        },
+        "name": "color_orng_400",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "orng",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#ffb75700",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#b75700",
+          "type": "color"
+        },
+        "name": "color_orng_500",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "orng",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#ff994600",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#994600",
+          "type": "color"
+        },
+        "name": "color_orng_600",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "orng",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#ff743200",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#743200",
+          "type": "color"
+        },
+        "name": "color_orng_700",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "orng",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#ff532100",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#532100",
+          "type": "color"
+        },
+        "name": "color_orng_800",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "orng",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#ff321100",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#321100",
+          "type": "color"
+        },
+        "name": "color_orng_900",
+        "attributes": {
+          "category": "color",
+          "type": "orng",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "orng",
+          "900"
+        ]
+      }
+    },
+    "red": {
+      "10": {
+        "value": "#fffff7f5",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fff7f5",
+          "type": "color"
+        },
+        "name": "color_red_10",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "10"
+        },
+        "path": [
+          "color",
+          "red",
+          "10"
+        ]
+      },
+      "50": {
+        "value": "#fffff0ed",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#fff0ed",
+          "type": "color"
+        },
+        "name": "color_red_50",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "50"
+        },
+        "path": [
+          "color",
+          "red",
+          "50"
+        ]
+      },
+      "100": {
+        "value": "#ffffd9d0",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffd9d0",
+          "type": "color"
+        },
+        "name": "color_red_100",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "red",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#ffffb4a5",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffb4a5",
+          "type": "color"
+        },
+        "name": "color_red_200",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "red",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#ffff9d8c",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff9d8c",
+          "type": "color"
+        },
+        "name": "color_red_300",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "red",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#ffff5244",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff5244",
+          "type": "color"
+        },
+        "name": "color_red_400",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "red",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#ffe11b18",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#e11b18",
+          "type": "color"
+        },
+        "name": "color_red_500",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "red",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#ffbf0207",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#bf0207",
+          "type": "color"
+        },
+        "name": "color_red_600",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "red",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#ff910000",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#910000",
+          "type": "color"
+        },
+        "name": "color_red_700",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "red",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#ff680000",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#680000",
+          "type": "color"
+        },
+        "name": "color_red_800",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "red",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#ff400000",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#400000",
+          "type": "color"
+        },
+        "name": "color_red_900",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "red",
+          "900"
+        ]
+      }
+    },
+    "white": {
+      "0": {
+        "value": "#ffffffff",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "name": "color_white_0",
+        "attributes": {
+          "category": "color",
+          "type": "white",
+          "item": "0"
+        },
+        "path": [
+          "color",
+          "white",
+          "0"
+        ]
+      }
+    },
+    "black": {
+      "900": {
+        "value": "#ff000000",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "name": "color_black_900",
+        "attributes": {
+          "category": "color",
+          "type": "black",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "black",
+          "900"
+        ]
+      }
+    },
+    "brand": {
+      "blue": {
+        "value": "#ff3873ff",
+        "type": "color",
+        "description": "Optimist Blue",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#3873ff",
+          "type": "color",
+          "description": "Optimist Blue"
+        },
+        "name": "color_brand_blue",
+        "attributes": {
+          "category": "color",
+          "type": "brand",
+          "item": "blue"
+        },
+        "path": [
+          "color",
+          "brand",
+          "blue"
+        ]
+      },
+      "midn": {
+        "value": "#ff0d173a",
+        "type": "color",
+        "description": "Midnight Blue",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "#0d173a",
+          "type": "color",
+          "description": "Midnight Blue"
+        },
+        "name": "color_brand_midn",
+        "attributes": {
+          "category": "color",
+          "type": "brand",
+          "item": "midn"
+        },
+        "path": [
+          "color",
+          "brand",
+          "midn"
+        ]
+      }
+    },
+    "overlay": {
+      "default": {
+        "value": "#99d8d8d8",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "rgba(216,216,216,0.6)",
+          "type": "color"
+        },
+        "name": "color_overlay_default",
+        "attributes": {
+          "category": "color",
+          "type": "overlay",
+          "item": "default"
+        },
+        "path": [
+          "color",
+          "overlay",
+          "default"
+        ]
+      },
+      "card": {
+        "value": "#1a000000",
+        "type": "color",
+        "filePath": "tokens/global-color.json",
+        "isSource": true,
+        "original": {
+          "value": "rgba(0,0,0,0.1)",
+          "type": "color"
+        },
+        "name": "color_overlay_card",
+        "attributes": {
+          "category": "color",
+          "type": "overlay",
+          "item": "card"
+        },
+        "path": [
+          "color",
+          "overlay",
+          "card"
+        ]
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "btn": {
+        "smallUnderline": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1rem",
+            "fontSize": ".75rem",
+            "textDecoration": "Underline",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.XS.underline}",
+            "type": "typography"
+          },
+          "name": "size_font_btn_small_underline",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "btn",
+            "subitem": "smallUnderline"
+          },
+          "path": [
+            "size",
+            "font",
+            "btn",
+            "smallUnderline"
+          ]
+        },
+        "small": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1rem",
+            "fontSize": ".75rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.XS.regular}",
+            "type": "typography"
+          },
+          "name": "size_font_btn_small",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "btn",
+            "subitem": "small"
+          },
+          "path": [
+            "size",
+            "font",
+            "btn",
+            "small"
+          ]
+        },
+        "large": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1.125rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.L.medium}",
+            "type": "typography"
+          },
+          "name": "size_font_btn_large",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "btn",
+            "subitem": "large"
+          },
+          "path": [
+            "size",
+            "font",
+            "btn",
+            "large"
+          ]
+        },
+        "largeUnderline": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1.125rem",
+            "textDecoration": "Underline",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.L.underline}",
+            "type": "typography"
+          },
+          "name": "size_font_btn_large_underline",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "btn",
+            "subitem": "largeUnderline"
+          },
+          "path": [
+            "size",
+            "font",
+            "btn",
+            "largeUnderline"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.M.medium}",
+            "type": "typography"
+          },
+          "name": "size_font_btn_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "btn",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "btn",
+            "medium"
+          ]
+        },
+        "mediumUnderline": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px",
+            "textDecoration": "Underline"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.M.underline}",
+            "type": "typography"
+          },
+          "name": "size_font_btn_medium_underline",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "btn",
+            "subitem": "mediumUnderline"
+          },
+          "path": [
+            "size",
+            "font",
+            "btn",
+            "mediumUnderline"
+          ]
+        }
+      },
+      "input": {
+        "field": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.M.regular}",
+            "type": "typography"
+          },
+          "name": "size_font_input_field",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "input",
+            "subitem": "field"
+          },
+          "path": [
+            "size",
+            "font",
+            "input",
+            "field"
+          ]
+        },
+        "title": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.M.medium}",
+            "type": "typography"
+          },
+          "name": "size_font_input_title",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "input",
+            "subitem": "title"
+          },
+          "path": [
+            "size",
+            "font",
+            "input",
+            "title"
+          ]
+        },
+        "caption": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1.25rem",
+            "fontSize": ".875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.S.regular}",
+            "type": "typography"
+          },
+          "name": "size_font_input_caption",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "input",
+            "subitem": "caption"
+          },
+          "path": [
+            "size",
+            "font",
+            "input",
+            "caption"
+          ]
+        },
+        "large": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "3.5rem",
+            "fontSize": "2.875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.font.7XL.bold}",
+            "type": "typography"
+          },
+          "name": "size_font_input_large",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "input",
+            "subitem": "large"
+          },
+          "path": [
+            "size",
+            "font",
+            "input",
+            "large"
+          ]
+        }
+      },
+      "2XS": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1rem",
+            "fontSize": ".688rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1rem",
+              "fontSize": ".688rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_2_xs_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "2XS",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "2XS",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "1rem",
+            "fontSize": ".688rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "1rem",
+              "fontSize": ".688rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_2_xs_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "2XS",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "2XS",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1rem",
+            "fontSize": ".688rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "1rem",
+              "fontSize": ".688rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_2_xs_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "2XS",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "2XS",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "1rem",
+            "fontSize": ".688rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "1rem",
+              "fontSize": ".688rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_2_xs_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "2XS",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "2XS",
+            "bold"
+          ]
+        }
+      },
+      "XS": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1rem",
+            "fontSize": ".75rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1rem",
+              "fontSize": ".75rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xs_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XS",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "XS",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "1rem",
+            "fontSize": ".75rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "1rem",
+              "fontSize": ".75rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xs_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XS",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "XS",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1rem",
+            "fontSize": ".75rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "1rem",
+              "fontSize": ".75rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xs_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XS",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "XS",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "1rem",
+            "fontSize": ".75rem"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "1rem",
+              "fontSize": ".75rem"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xs_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XS",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "XS",
+            "bold"
+          ]
+        },
+        "uppercase": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1rem",
+            "fontSize": ".75rem",
+            "textCase": "Uppercase",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1rem",
+              "fontSize": ".75rem",
+              "textCase": "Uppercase",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xs_uppercase",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XS",
+            "subitem": "uppercase"
+          },
+          "path": [
+            "size",
+            "font",
+            "XS",
+            "uppercase"
+          ]
+        },
+        "underline": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1rem",
+            "fontSize": ".75rem",
+            "textDecoration": "Underline",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1rem",
+              "fontSize": ".75rem",
+              "textDecoration": "Underline",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xs_underline",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XS",
+            "subitem": "underline"
+          },
+          "path": [
+            "size",
+            "font",
+            "XS",
+            "underline"
+          ]
+        }
+      },
+      "S": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1.25rem",
+            "fontSize": ".875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1.25rem",
+              "fontSize": ".875rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_s_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "S",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "S",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "1.25rem",
+            "fontSize": ".875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "1.25rem",
+              "fontSize": ".875rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_s_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "S",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "S",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.25rem",
+            "fontSize": ".875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "1.25rem",
+              "fontSize": ".875rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_s_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "S",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "S",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "1.25rem",
+            "fontSize": ".875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "1.25rem",
+              "fontSize": ".875rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_s_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "S",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "S",
+            "bold"
+          ]
+        },
+        "uppercase": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1.25rem",
+            "fontSize": ".875rem",
+            "textCase": "Uppercase",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1.25rem",
+              "fontSize": ".875rem",
+              "textCase": "Uppercase",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_s_uppercase",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "S",
+            "subitem": "uppercase"
+          },
+          "path": [
+            "size",
+            "font",
+            "S",
+            "uppercase"
+          ]
+        }
+      },
+      "M": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1.5rem",
+              "fontSize": "1rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_m_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "M",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "M",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "1.5rem",
+              "fontSize": "1rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_m_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "M",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "M",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "1.5rem",
+              "fontSize": "1rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_m_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "M",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "M",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "1.5rem",
+              "fontSize": "1rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_m_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "M",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "M",
+            "bold"
+          ]
+        },
+        "underline": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0px",
+            "textDecoration": "Underline"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "1.5rem",
+              "fontSize": "1rem",
+              "letterSpacing": "0px",
+              "textDecoration": "Underline"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_m_underline",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "M",
+            "subitem": "underline"
+          },
+          "path": [
+            "size",
+            "font",
+            "M",
+            "underline"
+          ]
+        }
+      },
+      "L": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1.5rem",
+            "fontSize": "1.125rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1.5rem",
+              "fontSize": "1.125rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_l_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "L",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "L",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "1.5rem",
+            "fontSize": "1.125rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "1.5rem",
+              "fontSize": "1.125rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_l_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "L",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "L",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1.125rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "1.5rem",
+              "fontSize": "1.125rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_l_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "L",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "L",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "1.5rem",
+            "fontSize": "1.125rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "1.5rem",
+              "fontSize": "1.125rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_l_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "L",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "L",
+            "bold"
+          ]
+        },
+        "underline": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.5rem",
+            "fontSize": "1.125rem",
+            "textDecoration": "Underline",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "1.5rem",
+              "fontSize": "1.125rem",
+              "textDecoration": "Underline",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_l_underline",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "L",
+            "subitem": "underline"
+          },
+          "path": [
+            "size",
+            "font",
+            "L",
+            "underline"
+          ]
+        }
+      },
+      "XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "1.75rem",
+            "fontSize": "1.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "1.75rem",
+              "fontSize": "1.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "1.75rem",
+            "fontSize": "1.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "1.75rem",
+              "fontSize": "1.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "1.75rem",
+            "fontSize": "1.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "1.75rem",
+              "fontSize": "1.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "1.75rem",
+            "fontSize": "1.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "1.75rem",
+              "fontSize": "1.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "XL",
+            "bold"
+          ]
+        }
+      },
+      "2XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "2rem",
+            "fontSize": "1.5rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "2rem",
+              "fontSize": "1.5rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_2_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "2XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "2XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "2rem",
+            "fontSize": "1.5rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "2rem",
+              "fontSize": "1.5rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_2_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "2XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "2XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "2rem",
+            "fontSize": "1.5rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "2rem",
+              "fontSize": "1.5rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_2_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "2XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "2XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "2rem",
+            "fontSize": "1.5rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "2rem",
+              "fontSize": "1.5rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_2_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "2XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "2XL",
+            "bold"
+          ]
+        }
+      },
+      "3XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "2.5rem",
+            "fontSize": "1.625rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "2.5rem",
+              "fontSize": "1.625rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_3_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "3XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "3XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "2.5rem",
+            "fontSize": "1.625rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "2.5rem",
+              "fontSize": "1.625rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_3_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "3XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "3XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "2.5rem",
+            "fontSize": "1.625rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "2.5rem",
+              "fontSize": "1.625rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_3_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "3XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "3XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "2.5rem",
+            "fontSize": "1.625rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "2.5rem",
+              "fontSize": "1.625rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_3_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "3XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "3XL",
+            "bold"
+          ]
+        }
+      },
+      "4XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "2.5rem",
+            "fontSize": "1.75rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "2.5rem",
+              "fontSize": "1.75rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_4_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "4XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "4XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "2.5rem",
+            "fontSize": "1.75rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "2.5rem",
+              "fontSize": "1.75rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_4_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "4XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "4XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "2.5rem",
+            "fontSize": "1.75rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "2.5rem",
+              "fontSize": "1.75rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_4_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "4XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "4XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "2.5rem",
+            "fontSize": "1.75rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "2.5rem",
+              "fontSize": "1.75rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_4_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "4XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "4XL",
+            "bold"
+          ]
+        }
+      },
+      "5XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "2.75rem",
+            "fontSize": "2rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "2.75rem",
+              "fontSize": "2rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_5_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "5XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "5XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "2.75rem",
+            "fontSize": "2rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "2.75rem",
+              "fontSize": "2rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_5_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "5XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "5XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "2.75rem",
+            "fontSize": "2rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "2.75rem",
+              "fontSize": "2rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_5_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "5XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "5XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "2.75rem",
+            "fontSize": "2rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "2.75rem",
+              "fontSize": "2rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_5_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "5XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "5XL",
+            "bold"
+          ]
+        }
+      },
+      "6XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "3.25rem",
+            "fontSize": "2.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "3.25rem",
+              "fontSize": "2.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_6_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "6XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "6XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "3.25rem",
+            "fontSize": "2.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "3.25rem",
+              "fontSize": "2.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_6_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "6XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "6XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "3.25rem",
+            "fontSize": "2.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "3.25rem",
+              "fontSize": "2.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_6_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "6XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "6XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "3.25rem",
+            "fontSize": "2.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "3.25rem",
+              "fontSize": "2.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_6_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "6XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "6XL",
+            "bold"
+          ]
+        }
+      },
+      "7XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "3.5rem",
+            "fontSize": "2.875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "3.5rem",
+              "fontSize": "2.875rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_7_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "7XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "7XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "3.5rem",
+            "fontSize": "2.875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "3.5rem",
+              "fontSize": "2.875rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_7_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "7XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "7XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "3.5rem",
+            "fontSize": "2.875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "3.5rem",
+              "fontSize": "2.875rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_7_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "7XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "7XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "3.5rem",
+            "fontSize": "2.875rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "3.5rem",
+              "fontSize": "2.875rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_7_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "7XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "7XL",
+            "bold"
+          ]
+        }
+      },
+      "8XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "3.75rem",
+            "fontSize": "3.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "3.75rem",
+              "fontSize": "3.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_8_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "8XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "8XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "3.75rem",
+            "fontSize": "3.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "3.75rem",
+              "fontSize": "3.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_8_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "8XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "8XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "3.75rem",
+            "fontSize": "3.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "3.75rem",
+              "fontSize": "3.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_8_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "8XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "8XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "3.75rem",
+            "fontSize": "3.25rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "3.75rem",
+              "fontSize": "3.25rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_8_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "8XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "8XL",
+            "bold"
+          ]
+        }
+      },
+      "9XL": {
+        "regular": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Regular",
+            "lineHeight": "4.25rem",
+            "fontSize": "4rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Regular",
+              "lineHeight": "4.25rem",
+              "fontSize": "4rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_9_xl_regular",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "9XL",
+            "subitem": "regular"
+          },
+          "path": [
+            "size",
+            "font",
+            "9XL",
+            "regular"
+          ]
+        },
+        "light": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Light",
+            "lineHeight": "4.25rem",
+            "fontSize": "4rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Light",
+              "lineHeight": "4.25rem",
+              "fontSize": "4rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_9_xl_light",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "9XL",
+            "subitem": "light"
+          },
+          "path": [
+            "size",
+            "font",
+            "9XL",
+            "light"
+          ]
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Medium",
+            "lineHeight": "4.25rem",
+            "fontSize": "4rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Medium",
+              "lineHeight": "4.25rem",
+              "fontSize": "4rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_9_xl_medium",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "9XL",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "font",
+            "9XL",
+            "medium"
+          ]
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "ABC Ginto Normal",
+            "fontWeight": "Bold",
+            "lineHeight": "4.25rem",
+            "fontSize": "4rem",
+            "letterSpacing": "0px"
+          },
+          "type": "typography",
+          "filePath": "tokens/global-typography.json",
+          "isSource": true,
+          "original": {
+            "value": {
+              "fontFamily": "{family.font.brand.brand}",
+              "fontWeight": "Bold",
+              "lineHeight": "4.25rem",
+              "fontSize": "4rem",
+              "letterSpacing": "0px"
+            },
+            "type": "typography"
+          },
+          "name": "size_font_9_xl_bold",
+          "attributes": {
+            "category": "size",
+            "type": "font",
+            "item": "9XL",
+            "subitem": "bold"
+          },
+          "path": [
+            "size",
+            "font",
+            "9XL",
+            "bold"
+          ]
+        }
+      }
+    },
+    "spacing": {
+      "btn": {
+        "small": {
+          "value": "64.00dp",
+          "type": "spacing",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.dim.4}",
+            "type": "spacing"
+          },
+          "name": "size_spacing_btn_small",
+          "attributes": {
+            "category": "size",
+            "type": "spacing",
+            "item": "btn",
+            "subitem": "small"
+          },
+          "path": [
+            "size",
+            "spacing",
+            "btn",
+            "small"
+          ]
+        },
+        "medium": {
+          "value": "96.00dp",
+          "type": "spacing",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.dim.6}",
+            "type": "spacing"
+          },
+          "name": "size_spacing_btn_medium",
+          "attributes": {
+            "category": "size",
+            "type": "spacing",
+            "item": "btn",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "spacing",
+            "btn",
+            "medium"
+          ]
+        },
+        "large": {
+          "value": "128.00dp",
+          "type": "spacing",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.dim.8}",
+            "type": "spacing"
+          },
+          "name": "size_spacing_btn_large",
+          "attributes": {
+            "category": "size",
+            "type": "spacing",
+            "item": "btn",
+            "subitem": "large"
+          },
+          "path": [
+            "size",
+            "spacing",
+            "btn",
+            "large"
+          ]
+        }
+      },
+      "input": {
+        "title-caption": {
+          "vertical": {
+            "value": "32.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-input.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.2}",
+              "type": "spacing"
+            },
+            "name": "size_spacing_input_title_caption_vertical",
+            "attributes": {
+              "category": "size",
+              "type": "spacing",
+              "item": "input",
+              "subitem": "title-caption",
+              "state": "vertical"
+            },
+            "path": [
+              "size",
+              "spacing",
+              "input",
+              "title-caption",
+              "vertical"
+            ]
+          },
+          "horizontal": {
+            "value": "128.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-input.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.8}",
+              "type": "spacing"
+            },
+            "name": "size_spacing_input_title_caption_horizontal",
+            "attributes": {
+              "category": "size",
+              "type": "spacing",
+              "item": "input",
+              "subitem": "title-caption",
+              "state": "horizontal"
+            },
+            "path": [
+              "size",
+              "spacing",
+              "input",
+              "title-caption",
+              "horizontal"
+            ]
+          }
+        },
+        "field": {
+          "small": {
+            "value": "64.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-input.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.4}",
+              "type": "spacing"
+            },
+            "name": "size_spacing_input_field_small",
+            "attributes": {
+              "category": "size",
+              "type": "spacing",
+              "item": "input",
+              "subitem": "field",
+              "state": "small"
+            },
+            "path": [
+              "size",
+              "spacing",
+              "input",
+              "field",
+              "small"
+            ]
+          },
+          "medium": {
+            "value": "128.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-input.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.8}",
+              "type": "spacing"
+            },
+            "name": "size_spacing_input_field_medium",
+            "attributes": {
+              "category": "size",
+              "type": "spacing",
+              "item": "input",
+              "subitem": "field",
+              "state": "medium"
+            },
+            "path": [
+              "size",
+              "spacing",
+              "input",
+              "field",
+              "medium"
+            ]
+          },
+          "large": {
+            "value": "192.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-input.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.12}",
+              "type": "spacing"
+            },
+            "name": "size_spacing_input_field_large",
+            "attributes": {
+              "category": "size",
+              "type": "spacing",
+              "item": "input",
+              "subitem": "field",
+              "state": "large"
+            },
+            "path": [
+              "size",
+              "spacing",
+              "input",
+              "field",
+              "large"
+            ]
+          }
+        }
+      }
+    },
+    "padding": {
+      "btn": {
+        "vertical": {
+          "small": {
+            "value": "192.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.12}",
+              "type": "spacing"
+            },
+            "name": "size_padding_btn_vertical_small",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "btn",
+              "subitem": "vertical",
+              "state": "small"
+            },
+            "path": [
+              "size",
+              "padding",
+              "btn",
+              "vertical",
+              "small"
+            ]
+          },
+          "medium": {
+            "value": "192.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.12}",
+              "type": "spacing"
+            },
+            "name": "size_padding_btn_vertical_medium",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "btn",
+              "subitem": "vertical",
+              "state": "medium"
+            },
+            "path": [
+              "size",
+              "padding",
+              "btn",
+              "vertical",
+              "medium"
+            ]
+          },
+          "large": {
+            "value": "192.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.12}",
+              "type": "spacing"
+            },
+            "name": "size_padding_btn_vertical_large",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "btn",
+              "subitem": "vertical",
+              "state": "large"
+            },
+            "path": [
+              "size",
+              "padding",
+              "btn",
+              "vertical",
+              "large"
+            ]
+          },
+          "xlarge": {
+            "value": "256.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.16}",
+              "type": "spacing"
+            },
+            "name": "size_padding_btn_vertical_xlarge",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "btn",
+              "subitem": "vertical",
+              "state": "xlarge"
+            },
+            "path": [
+              "size",
+              "padding",
+              "btn",
+              "vertical",
+              "xlarge"
+            ]
+          }
+        },
+        "horizontal": {
+          "small": {
+            "value": "256.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.16}",
+              "type": "spacing"
+            },
+            "name": "size_padding_btn_horizontal_small",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "btn",
+              "subitem": "horizontal",
+              "state": "small"
+            },
+            "path": [
+              "size",
+              "padding",
+              "btn",
+              "horizontal",
+              "small"
+            ]
+          },
+          "medium": {
+            "value": "256.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.16}",
+              "type": "spacing"
+            },
+            "name": "size_padding_btn_horizontal_medium",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "btn",
+              "subitem": "horizontal",
+              "state": "medium"
+            },
+            "path": [
+              "size",
+              "padding",
+              "btn",
+              "horizontal",
+              "medium"
+            ]
+          },
+          "large": {
+            "value": "384.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-button.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.24}",
+              "type": "spacing"
+            },
+            "name": "size_padding_btn_horizontal_large",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "btn",
+              "subitem": "horizontal",
+              "state": "large"
+            },
+            "path": [
+              "size",
+              "padding",
+              "btn",
+              "horizontal",
+              "large"
+            ]
+          }
+        }
+      },
+      "input": {
+        "field": {
+          "vertical": {
+            "value": "256.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-input.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.16}",
+              "type": "spacing"
+            },
+            "name": "size_padding_input_field_vertical",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "input",
+              "subitem": "field",
+              "state": "vertical"
+            },
+            "path": [
+              "size",
+              "padding",
+              "input",
+              "field",
+              "vertical"
+            ]
+          },
+          "horizontal": {
+            "value": "192.00dp",
+            "type": "spacing",
+            "filePath": "tokens/component-input.json",
+            "isSource": true,
+            "original": {
+              "value": "{size.dim.12}",
+              "type": "spacing"
+            },
+            "name": "size_padding_input_field_horizontal",
+            "attributes": {
+              "category": "size",
+              "type": "padding",
+              "item": "input",
+              "subitem": "field",
+              "state": "horizontal"
+            },
+            "path": [
+              "size",
+              "padding",
+              "input",
+              "field",
+              "horizontal"
+            ]
+          }
+        }
+      }
+    },
+    "radius": {
+      "btn": {
+        "default": {
+          "value": "3200.00dp",
+          "type": "borderRadius",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.radius.xl}",
+            "type": "borderRadius"
+          },
+          "name": "size_radius_btn_default",
+          "attributes": {
+            "category": "size",
+            "type": "radius",
+            "item": "btn",
+            "subitem": "default"
+          },
+          "path": [
+            "size",
+            "radius",
+            "btn",
+            "default"
+          ]
+        }
+      },
+      "input": {
+        "default": {
+          "value": "96.00dp",
+          "type": "borderRadius",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.dim.6}",
+            "type": "borderRadius"
+          },
+          "name": "size_radius_input_default",
+          "attributes": {
+            "category": "size",
+            "type": "radius",
+            "item": "input",
+            "subitem": "default"
+          },
+          "path": [
+            "size",
+            "radius",
+            "input",
+            "default"
+          ]
+        },
+        "selected": {
+          "value": "32.00dp",
+          "type": "borderRadius",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.dim.2}",
+            "type": "borderRadius"
+          },
+          "name": "size_radius_input_selected",
+          "attributes": {
+            "category": "size",
+            "type": "radius",
+            "item": "input",
+            "subitem": "selected"
+          },
+          "path": [
+            "size",
+            "radius",
+            "input",
+            "selected"
+          ]
+        }
+      },
+      "xs": {
+        "value": "32.00dp",
+        "type": "borderRadius",
+        "filePath": "tokens/global-border-radius.json",
+        "isSource": true,
+        "original": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "name": "size_radius_xs",
+        "attributes": {
+          "category": "size",
+          "type": "radius",
+          "item": "xs"
+        },
+        "path": [
+          "size",
+          "radius",
+          "xs"
+        ]
+      },
+      "s": {
+        "value": "96.00dp",
+        "type": "borderRadius",
+        "filePath": "tokens/global-border-radius.json",
+        "isSource": true,
+        "original": {
+          "value": "{size.dim.6}",
+          "type": "borderRadius"
+        },
+        "name": "size_radius_s",
+        "attributes": {
+          "category": "size",
+          "type": "radius",
+          "item": "s"
+        },
+        "path": [
+          "size",
+          "radius",
+          "s"
+        ]
+      },
+      "m": {
+        "value": "128.00dp",
+        "type": "borderRadius",
+        "filePath": "tokens/global-border-radius.json",
+        "isSource": true,
+        "original": {
+          "value": "{size.dim.8}",
+          "type": "borderRadius"
+        },
+        "name": "size_radius_m",
+        "attributes": {
+          "category": "size",
+          "type": "radius",
+          "item": "m"
+        },
+        "path": [
+          "size",
+          "radius",
+          "m"
+        ]
+      },
+      "l": {
+        "value": "192.00dp",
+        "type": "borderRadius",
+        "description": "Use for cards",
+        "filePath": "tokens/global-border-radius.json",
+        "isSource": true,
+        "original": {
+          "value": "12px",
+          "type": "borderRadius",
+          "description": "Use for cards"
+        },
+        "name": "size_radius_l",
+        "attributes": {
+          "category": "size",
+          "type": "radius",
+          "item": "l"
+        },
+        "path": [
+          "size",
+          "radius",
+          "l"
+        ]
+      },
+      "xl": {
+        "value": "3200.00dp",
+        "type": "borderRadius",
+        "description": "Use for rounded corners like buttons, or to make circles",
+        "filePath": "tokens/global-border-radius.json",
+        "isSource": true,
+        "original": {
+          "value": "200px",
+          "type": "borderRadius",
+          "description": "Use for rounded corners like buttons, or to make circles"
+        },
+        "name": "size_radius_xl",
+        "attributes": {
+          "category": "size",
+          "type": "radius",
+          "item": "xl"
+        },
+        "path": [
+          "size",
+          "radius",
+          "xl"
+        ]
+      }
+    },
+    "bwidth": {
+      "btn": {
+        "default": {
+          "value": "16.00dp",
+          "type": "borderWidth",
+          "filePath": "tokens/component-button.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.bwidth.s}",
+            "type": "borderWidth"
+          },
+          "name": "size_bwidth_btn_default",
+          "attributes": {
+            "category": "size",
+            "type": "bwidth",
+            "item": "btn",
+            "subitem": "default"
+          },
+          "path": [
+            "size",
+            "bwidth",
+            "btn",
+            "default"
+          ]
+        }
+      },
+      "input": {
+        "default": {
+          "value": "16.00dp",
+          "type": "borderWidth",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.bwidth.s}",
+            "type": "borderWidth"
+          },
+          "name": "size_bwidth_input_default",
+          "attributes": {
+            "category": "size",
+            "type": "bwidth",
+            "item": "input",
+            "subitem": "default"
+          },
+          "path": [
+            "size",
+            "bwidth",
+            "input",
+            "default"
+          ]
+        },
+        "selected": {
+          "value": "32.00dp",
+          "type": "borderWidth",
+          "filePath": "tokens/component-input.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.bwidth.m}",
+            "type": "borderWidth"
+          },
+          "name": "size_bwidth_input_selected",
+          "attributes": {
+            "category": "size",
+            "type": "bwidth",
+            "item": "input",
+            "subitem": "selected"
+          },
+          "path": [
+            "size",
+            "bwidth",
+            "input",
+            "selected"
+          ]
+        }
+      },
+      "s": {
+        "value": "16.00dp",
+        "type": "borderWidth",
+        "filePath": "tokens/global-border-width.json",
+        "isSource": true,
+        "original": {
+          "value": "1px",
+          "type": "borderWidth"
+        },
+        "name": "size_bwidth_s",
+        "attributes": {
+          "category": "size",
+          "type": "bwidth",
+          "item": "s"
+        },
+        "path": [
+          "size",
+          "bwidth",
+          "s"
+        ]
+      },
+      "m": {
+        "value": "32.00dp",
+        "type": "borderWidth",
+        "filePath": "tokens/global-border-width.json",
+        "isSource": true,
+        "original": {
+          "value": "2px",
+          "type": "borderWidth"
+        },
+        "name": "size_bwidth_m",
+        "attributes": {
+          "category": "size",
+          "type": "bwidth",
+          "item": "m"
+        },
+        "path": [
+          "size",
+          "bwidth",
+          "m"
+        ]
+      },
+      "l": {
+        "value": "48.00dp",
+        "type": "borderWidth",
+        "filePath": "tokens/global-border-width.json",
+        "isSource": true,
+        "original": {
+          "value": "3px",
+          "type": "borderWidth"
+        },
+        "name": "size_bwidth_l",
+        "attributes": {
+          "category": "size",
+          "type": "bwidth",
+          "item": "l"
+        },
+        "path": [
+          "size",
+          "bwidth",
+          "l"
+        ]
+      },
+      "xl": {
+        "value": "64.00dp",
+        "type": "borderWidth",
+        "filePath": "tokens/global-border-width.json",
+        "isSource": true,
+        "original": {
+          "value": "4px",
+          "type": "borderWidth"
+        },
+        "name": "size_bwidth_xl",
+        "attributes": {
+          "category": "size",
+          "type": "bwidth",
+          "item": "xl"
+        },
+        "path": [
+          "size",
+          "bwidth",
+          "xl"
+        ]
+      }
+    },
+    "dim": {
+      "0": {
+        "value": "0.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "name": "size_dim_0",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "0"
+        },
+        "path": [
+          "size",
+          "dim",
+          "0"
+        ]
+      },
+      "1": {
+        "value": "16.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "name": "size_dim_1",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "1"
+        },
+        "path": [
+          "size",
+          "dim",
+          "1"
+        ]
+      },
+      "2": {
+        "value": "32.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "name": "size_dim_2",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "2"
+        },
+        "path": [
+          "size",
+          "dim",
+          "2"
+        ]
+      },
+      "4": {
+        "value": "64.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "name": "size_dim_4",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "4"
+        },
+        "path": [
+          "size",
+          "dim",
+          "4"
+        ]
+      },
+      "6": {
+        "value": "96.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "6px",
+          "type": "dimension"
+        },
+        "name": "size_dim_6",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "6"
+        },
+        "path": [
+          "size",
+          "dim",
+          "6"
+        ]
+      },
+      "8": {
+        "value": "128.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "name": "size_dim_8",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "8"
+        },
+        "path": [
+          "size",
+          "dim",
+          "8"
+        ]
+      },
+      "12": {
+        "value": "192.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "12px",
+          "type": "dimension"
+        },
+        "name": "size_dim_12",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "12"
+        },
+        "path": [
+          "size",
+          "dim",
+          "12"
+        ]
+      },
+      "16": {
+        "value": "256.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "name": "size_dim_16",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "16"
+        },
+        "path": [
+          "size",
+          "dim",
+          "16"
+        ]
+      },
+      "20": {
+        "value": "320.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "20px",
+          "type": "dimension"
+        },
+        "name": "size_dim_20",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "20"
+        },
+        "path": [
+          "size",
+          "dim",
+          "20"
+        ]
+      },
+      "24": {
+        "value": "384.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "24px",
+          "type": "dimension"
+        },
+        "name": "size_dim_24",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "24"
+        },
+        "path": [
+          "size",
+          "dim",
+          "24"
+        ]
+      },
+      "32": {
+        "value": "512.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "32px",
+          "type": "dimension"
+        },
+        "name": "size_dim_32",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "32"
+        },
+        "path": [
+          "size",
+          "dim",
+          "32"
+        ]
+      },
+      "40": {
+        "value": "640.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "40px",
+          "type": "dimension"
+        },
+        "name": "size_dim_40",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "40"
+        },
+        "path": [
+          "size",
+          "dim",
+          "40"
+        ]
+      },
+      "48": {
+        "value": "768.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "48px",
+          "type": "dimension"
+        },
+        "name": "size_dim_48",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "48"
+        },
+        "path": [
+          "size",
+          "dim",
+          "48"
+        ]
+      },
+      "64": {
+        "value": "1024.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "64px",
+          "type": "dimension"
+        },
+        "name": "size_dim_64",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "64"
+        },
+        "path": [
+          "size",
+          "dim",
+          "64"
+        ]
+      },
+      "80": {
+        "value": "1280.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "80px",
+          "type": "dimension"
+        },
+        "name": "size_dim_80",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "80"
+        },
+        "path": [
+          "size",
+          "dim",
+          "80"
+        ]
+      },
+      "96": {
+        "value": "1536.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "96px",
+          "type": "dimension"
+        },
+        "name": "size_dim_96",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "96"
+        },
+        "path": [
+          "size",
+          "dim",
+          "96"
+        ]
+      },
+      "128": {
+        "value": "2048.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "128px",
+          "type": "dimension"
+        },
+        "name": "size_dim_128",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "128"
+        },
+        "path": [
+          "size",
+          "dim",
+          "128"
+        ]
+      },
+      "160": {
+        "value": "2560.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "160px",
+          "type": "dimension"
+        },
+        "name": "size_dim_160",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "160"
+        },
+        "path": [
+          "size",
+          "dim",
+          "160"
+        ]
+      },
+      "192": {
+        "value": "3072.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "192px",
+          "type": "dimension"
+        },
+        "name": "size_dim_192",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "192"
+        },
+        "path": [
+          "size",
+          "dim",
+          "192"
+        ]
+      },
+      "224": {
+        "value": "3584.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "224px",
+          "type": "dimension"
+        },
+        "name": "size_dim_224",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "224"
+        },
+        "path": [
+          "size",
+          "dim",
+          "224"
+        ]
+      },
+      "256": {
+        "value": "4096.00dp",
+        "type": "dimension",
+        "filePath": "tokens/global-dimensions.json",
+        "isSource": true,
+        "original": {
+          "value": "256px",
+          "type": "dimension"
+        },
+        "name": "size_dim_256",
+        "attributes": {
+          "category": "size",
+          "type": "dim",
+          "item": "256"
+        },
+        "path": [
+          "size",
+          "dim",
+          "256"
+        ]
+      }
+    },
+    "blur": {
+      "overlay": {
+        "default": {
+          "value": "64.00dp",
+          "type": "dimension",
+          "filePath": "tokens/global-effects.json",
+          "isSource": true,
+          "original": {
+            "value": "{size.dim.4}",
+            "type": "dimension"
+          },
+          "name": "size_blur_overlay_default",
+          "attributes": {
+            "category": "size",
+            "type": "blur",
+            "item": "overlay",
+            "subitem": "default"
+          },
+          "path": [
+            "size",
+            "blur",
+            "overlay",
+            "default"
+          ]
+        }
+      }
+    },
+    "shadow": {
+      "box": {
+        "small": {
+          "value": [
+            {
+              "x": "0",
+              "y": "1",
+              "blur": "2",
+              "spread": "0",
+              "color": "#ff5e5d5d",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "2",
+              "blur": "6",
+              "spread": "2",
+              "color": "#ff727272",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "filePath": "tokens/global-effects.json",
+          "isSource": true,
+          "original": {
+            "value": [
+              {
+                "x": "0",
+                "y": "1",
+                "blur": "2",
+                "spread": "0",
+                "color": "{color.ntrl.600}",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "2",
+                "blur": "6",
+                "spread": "2",
+                "color": "{color.ntrl.500}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "name": "size_shadow_box_small",
+          "attributes": {
+            "category": "size",
+            "type": "shadow",
+            "item": "box",
+            "subitem": "small"
+          },
+          "path": [
+            "size",
+            "shadow",
+            "box",
+            "small"
+          ]
+        },
+        "medium": {
+          "value": [
+            {
+              "x": "0",
+              "y": "4",
+              "blur": "8",
+              "spread": "3",
+              "color": "#ff727272",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "1",
+              "blur": "3",
+              "spread": "0",
+              "color": "#ff5e5d5d",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "filePath": "tokens/global-effects.json",
+          "isSource": true,
+          "original": {
+            "value": [
+              {
+                "x": "0",
+                "y": "4",
+                "blur": "8",
+                "spread": "3",
+                "color": "{color.ntrl.500}",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "1",
+                "blur": "3",
+                "spread": "0",
+                "color": "{color.ntrl.600}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "name": "size_shadow_box_medium",
+          "attributes": {
+            "category": "size",
+            "type": "shadow",
+            "item": "box",
+            "subitem": "medium"
+          },
+          "path": [
+            "size",
+            "shadow",
+            "box",
+            "medium"
+          ]
+        },
+        "large": {
+          "value": [
+            {
+              "x": "0",
+              "y": "8",
+              "blur": "12",
+              "spread": "6",
+              "color": "#ff727272",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "4",
+              "blur": "4",
+              "spread": "0",
+              "color": "#ff5e5d5d",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "filePath": "tokens/global-effects.json",
+          "isSource": true,
+          "original": {
+            "value": [
+              {
+                "x": "0",
+                "y": "8",
+                "blur": "12",
+                "spread": "6",
+                "color": "{color.ntrl.500}",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "4",
+                "blur": "4",
+                "spread": "0",
+                "color": "{color.ntrl.600}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "name": "size_shadow_box_large",
+          "attributes": {
+            "category": "size",
+            "type": "shadow",
+            "item": "box",
+            "subitem": "large"
+          },
+          "path": [
+            "size",
+            "shadow",
+            "box",
+            "large"
+          ]
+        }
+      }
+    }
+  },
+  "family": {
+    "font": {
+      "brand": {
+        "brand": {
+          "value": "ABC Ginto Normal",
+          "type": "fontFamilies",
+          "filePath": "tokens/global-font-family.json",
+          "isSource": true,
+          "original": {
+            "value": "ABC Ginto Normal",
+            "type": "fontFamilies"
+          },
+          "name": "family_font_brand_brand",
+          "attributes": {
+            "category": "family",
+            "type": "font",
+            "item": "brand",
+            "subitem": "brand"
+          },
+          "path": [
+            "family",
+            "font",
+            "brand",
+            "brand"
+          ]
+        }
+      }
+    }
+  }
+}

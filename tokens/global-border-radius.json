@@ -1,0 +1,28 @@
+{
+  "size": {
+    "radius": {
+      "xs": {
+        "value": "2px",
+        "type": "borderRadius"
+      },
+      "s": {
+        "value": "{size.dim.6}",
+        "type": "borderRadius"
+      },
+      "m": {
+        "value": "{size.dim.8}",
+        "type": "borderRadius"
+      },
+      "l": {
+        "value": "12px",
+        "type": "borderRadius",
+        "description": "Use for cards"
+      },
+      "xl": {
+        "value": "200px",
+        "type": "borderRadius",
+        "description": "Use for rounded corners like buttons, or to make circles"
+      }
+    }
+  }
+}

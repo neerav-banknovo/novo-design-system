@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Thu, 01 Feb 2024 14:36:38 GMT
+-->
+<resources>
+  <dimen name="size_spacing_btn_small">64.00dp</dimen>
+  <dimen name="size_spacing_btn_medium">96.00dp</dimen>
+  <dimen name="size_spacing_btn_large">128.00dp</dimen>
+  <dimen name="size_spacing_input_title_caption_vertical">32.00dp</dimen>
+  <dimen name="size_spacing_input_title_caption_horizontal">128.00dp</dimen>
+  <dimen name="size_spacing_input_field_small">64.00dp</dimen>
+  <dimen name="size_spacing_input_field_medium">128.00dp</dimen>
+  <dimen name="size_spacing_input_field_large">192.00dp</dimen>
+  <dimen name="size_padding_btn_vertical_small">192.00dp</dimen>
+  <dimen name="size_padding_btn_vertical_medium">192.00dp</dimen>
+  <dimen name="size_padding_btn_vertical_large">192.00dp</dimen>
+  <dimen name="size_padding_btn_vertical_xlarge">256.00dp</dimen>
+  <dimen name="size_padding_btn_horizontal_small">256.00dp</dimen>
+  <dimen name="size_padding_btn_horizontal_medium">256.00dp</dimen>
+  <dimen name="size_padding_btn_horizontal_large">384.00dp</dimen>
+  <dimen name="size_padding_input_field_vertical">256.00dp</dimen>
+  <dimen name="size_padding_input_field_horizontal">192.00dp</dimen>
+  <dimen name="size_radius_btn_default">3200.00dp</dimen>
+  <dimen name="size_radius_input_default">96.00dp</dimen>
+  <dimen name="size_radius_input_selected">32.00dp</dimen>
+  <dimen name="size_radius_xs">32.00dp</dimen>
+  <dimen name="size_radius_s">96.00dp</dimen>
+  <dimen name="size_radius_m">128.00dp</dimen>
+  <dimen name="size_radius_l">192.00dp</dimen>
+  <dimen name="size_radius_xl">3200.00dp</dimen>
+  <dimen name="size_bwidth_btn_default">16.00dp</dimen>
+  <dimen name="size_bwidth_input_default">16.00dp</dimen>
+  <dimen name="size_bwidth_input_selected">32.00dp</dimen>
+  <dimen name="size_bwidth_s">16.00dp</dimen>
+  <dimen name="size_bwidth_m">32.00dp</dimen>
+  <dimen name="size_bwidth_l">48.00dp</dimen>
+  <dimen name="size_bwidth_xl">64.00dp</dimen>
+  <dimen name="size_dim_0">0.00dp</dimen>
+  <dimen name="size_dim_1">16.00dp</dimen>
+  <dimen name="size_dim_2">32.00dp</dimen>
+  <dimen name="size_dim_4">64.00dp</dimen>
+  <dimen name="size_dim_6">96.00dp</dimen>
+  <dimen name="size_dim_8">128.00dp</dimen>
+  <dimen name="size_dim_12">192.00dp</dimen>
+  <dimen name="size_dim_16">256.00dp</dimen>
+  <dimen name="size_dim_20">320.00dp</dimen>
+  <dimen name="size_dim_24">384.00dp</dimen>
+  <dimen name="size_dim_32">512.00dp</dimen>
+  <dimen name="size_dim_40">640.00dp</dimen>
+  <dimen name="size_dim_48">768.00dp</dimen>
+  <dimen name="size_dim_64">1024.00dp</dimen>
+  <dimen name="size_dim_80">1280.00dp</dimen>
+  <dimen name="size_dim_96">1536.00dp</dimen>
+  <dimen name="size_dim_128">2048.00dp</dimen>
+  <dimen name="size_dim_160">2560.00dp</dimen>
+  <dimen name="size_dim_192">3072.00dp</dimen>
+  <dimen name="size_dim_224">3584.00dp</dimen>
+  <dimen name="size_dim_256">4096.00dp</dimen>
+  <dimen name="size_blur_overlay_default">64.00dp</dimen>
+  <dimen name="size_shadow_box_small">[object Object],[object Object]</dimen>
+  <dimen name="size_shadow_box_medium">[object Object],[object Object]</dimen>
+  <dimen name="size_shadow_box_large">[object Object],[object Object]</dimen>
+  
+</resources>

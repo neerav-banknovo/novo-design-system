@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Thu, 01 Feb 2024 14:36:38 GMT
+-->
+<resources>
+  <dimen name="size_font_btn_small_underline">[object Object]</dimen>
+  <dimen name="size_font_btn_small">[object Object]</dimen>
+  <dimen name="size_font_btn_large">[object Object]</dimen>
+  <dimen name="size_font_btn_large_underline">[object Object]</dimen>
+  <dimen name="size_font_btn_medium">[object Object]</dimen>
+  <dimen name="size_font_btn_medium_underline">[object Object]</dimen>
+  <dimen name="size_font_input_field">[object Object]</dimen>
+  <dimen name="size_font_input_title">[object Object]</dimen>
+  <dimen name="size_font_input_caption">[object Object]</dimen>
+  <dimen name="size_font_input_large">[object Object]</dimen>
+  <dimen name="size_font_2_xs_regular">[object Object]</dimen>
+  <dimen name="size_font_2_xs_light">[object Object]</dimen>
+  <dimen name="size_font_2_xs_medium">[object Object]</dimen>
+  <dimen name="size_font_2_xs_bold">[object Object]</dimen>
+  <dimen name="size_font_xs_regular">[object Object]</dimen>
+  <dimen name="size_font_xs_light">[object Object]</dimen>
+  <dimen name="size_font_xs_medium">[object Object]</dimen>
+  <dimen name="size_font_xs_bold">[object Object]</dimen>
+  <dimen name="size_font_xs_uppercase">[object Object]</dimen>
+  <dimen name="size_font_xs_underline">[object Object]</dimen>
+  <dimen name="size_font_s_regular">[object Object]</dimen>
+  <dimen name="size_font_s_light">[object Object]</dimen>
+  <dimen name="size_font_s_medium">[object Object]</dimen>
+  <dimen name="size_font_s_bold">[object Object]</dimen>
+  <dimen name="size_font_s_uppercase">[object Object]</dimen>
+  <dimen name="size_font_m_regular">[object Object]</dimen>
+  <dimen name="size_font_m_light">[object Object]</dimen>
+  <dimen name="size_font_m_medium">[object Object]</dimen>
+  <dimen name="size_font_m_bold">[object Object]</dimen>
+  <dimen name="size_font_m_underline">[object Object]</dimen>
+  <dimen name="size_font_l_regular">[object Object]</dimen>
+  <dimen name="size_font_l_light">[object Object]</dimen>
+  <dimen name="size_font_l_medium">[object Object]</dimen>
+  <dimen name="size_font_l_bold">[object Object]</dimen>
+  <dimen name="size_font_l_underline">[object Object]</dimen>
+  <dimen name="size_font_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_xl_light">[object Object]</dimen>
+  <dimen name="size_font_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_xl_bold">[object Object]</dimen>
+  <dimen name="size_font_2_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_2_xl_light">[object Object]</dimen>
+  <dimen name="size_font_2_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_2_xl_bold">[object Object]</dimen>
+  <dimen name="size_font_3_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_3_xl_light">[object Object]</dimen>
+  <dimen name="size_font_3_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_3_xl_bold">[object Object]</dimen>
+  <dimen name="size_font_4_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_4_xl_light">[object Object]</dimen>
+  <dimen name="size_font_4_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_4_xl_bold">[object Object]</dimen>
+  <dimen name="size_font_5_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_5_xl_light">[object Object]</dimen>
+  <dimen name="size_font_5_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_5_xl_bold">[object Object]</dimen>
+  <dimen name="size_font_6_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_6_xl_light">[object Object]</dimen>
+  <dimen name="size_font_6_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_6_xl_bold">[object Object]</dimen>
+  <dimen name="size_font_7_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_7_xl_light">[object Object]</dimen>
+  <dimen name="size_font_7_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_7_xl_bold">[object Object]</dimen>
+  <dimen name="size_font_8_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_8_xl_light">[object Object]</dimen>
+  <dimen name="size_font_8_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_8_xl_bold">[object Object]</dimen>
+  <dimen name="size_font_9_xl_regular">[object Object]</dimen>
+  <dimen name="size_font_9_xl_light">[object Object]</dimen>
+  <dimen name="size_font_9_xl_medium">[object Object]</dimen>
+  <dimen name="size_font_9_xl_bold">[object Object]</dimen>
+  
+</resources>

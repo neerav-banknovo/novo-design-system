@@ -1,0 +1,22 @@
+{
+  "size": {
+    "bwidth": {
+      "s": {
+        "value": "1px",
+        "type": "borderWidth"
+      },
+      "m": {
+        "value": "2px",
+        "type": "borderWidth"
+      },
+      "l": {
+        "value": "3px",
+        "type": "borderWidth"
+      },
+      "xl": {
+        "value": "4px",
+        "type": "borderWidth"
+      }
+    }
+  }
+}

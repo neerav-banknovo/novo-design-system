@@ -1,0 +1,15 @@
+{
+  "color": {
+    "brand": {
+      "primary": {        
+        "base":    { "value": "{color.base.blue.A200.value}" },
+        "light":    { "value": "{color.base.blue.100.value}" }
+      },
+
+      "secondary": {
+        "base":    { "value": "{color.base.blue.A100.value}" },
+        "light":    { "value": "{color.base.blue.100.value}" }
+      }
+    }
+  }
+}

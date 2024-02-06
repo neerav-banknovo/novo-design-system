@@ -1,0 +1,15 @@
+{
+  "color": {
+    "border": {      
+      "base":    { "value": "{color.base.blue.100.value}" },
+      "dark":    { "value": "{color.base.blue.A200.value}" },
+      "button": {
+        "ternary": {
+          "base": { "value": "{color.border.base.value}" },
+          "active": { "value": "{color.border.dark.value}"},
+          "disabled": { "value": "{color.border.base.value}" }
+        }
+      }
+    }
+  }
+}

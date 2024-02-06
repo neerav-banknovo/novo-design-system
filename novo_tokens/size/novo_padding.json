@@ -1,0 +1,102 @@
+{
+  "size": {
+    "padding": {
+      "tiny"     : { "value": ".25" },
+      "small"    : { "value": ".5" },
+      "medium"   : { "value": "1" },
+      "large"    : { "value": "1.5" },
+      "xl"       : { "value": "2" },
+      "xxl"      : { "value": "3" },
+      "base"     : { "value": "{size.padding.medium.value}" }
+    },
+    "hw":{
+      "1": {
+        "value": "4px",
+        "group": "spacing",
+        "type": "spacing"
+      },
+      "0": {
+        "value": "0",
+        "group": "spacing",
+        "type": "spacing"
+      },
+      "0.25": {
+        "value": "1px",
+        "group": "spacing",
+        "type": "spacing"
+      },
+      "0.5": {
+        "value": "2px",
+        "group": "spacing"
+      },
+      "1.5": {
+        "value": "6px",
+        "group": "spacing"
+      },
+      "2": {
+        "value": "8px",
+        "group": "spacing"
+      },
+      "3": {
+        "value": "12px",
+        "group": "spacing"
+      },
+      "4": {
+        "value": "16px",
+        "group": "spacing"
+      },
+      "5": {
+        "value": "20px",
+        "group": "spacing"
+      },
+      "6": {
+        "value": "24px",
+        "group": "spacing"
+      },
+      "8": {
+        "value": "32px",
+        "group": "spacing"
+      },
+      "10": {
+        "value": "40px",
+        "group": "spacing"
+      },
+      "12": {
+        "value": "48px",
+        "group": "spacing"
+      },
+      "16": {
+        "value": "64px",
+        "group": "spacing"
+      },
+      "20": {
+        "value": "80px",
+        "group": "spacing"
+      },
+      "24": {
+        "value": "96px",
+        "group": "spacing"
+      },
+      "32": {
+        "value": "128px",
+        "group": "spacing"
+      },
+      "40": {
+        "value": "160px",
+        "group": "spacing"
+      },
+      "48": {
+        "value": "192px",
+        "group": "spacing"
+      },
+      "56": {
+        "value": "224px",
+        "group": "spacing"
+      },
+      "64": {
+        "value": "256px",
+        "group": "spacing"
+      }
+    }
+  }
+}
