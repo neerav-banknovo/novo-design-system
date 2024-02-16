@@ -1,0 +1,122 @@
+{
+  "color": {
+    "bg": {
+      "checkbox": {
+        "default": {
+          "value": "{color.white.0}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{color.blue.500}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.ntrl.100}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.blue.10}",
+          "type": "color"
+        }
+      }
+    },
+    "border": {
+      "checkbox": {
+        "default": {
+          "value": "{color.ntrl.200}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.ntrl.200}",
+          "type": "color"
+        },
+        "hello": {
+          "value": "{color.blue.500}",
+          "type": "color"
+        }
+      }
+    },
+    "indicator": {
+      "checkbox": {
+        "default": {
+          "value": "{color.white.0}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "checkbox": {
+        "primary": {
+          "value": "{color.ntrl.900}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.ntrl.700}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.ntrl.500}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "checkbox": {
+        "primary": {
+          "value": "{size.font.M.regular}",
+          "type": "typography"
+        },
+        "secondary": {
+          "value": "{size.font.S.regular}",
+          "type": "typography"
+        }
+      }
+    },
+    "spacing": {
+      "checkbox": {
+        "default": {
+          "value": "{size.dim.8}",
+          "type": "spacing"
+        }
+      }
+    },
+    "padding": {
+      "checkbox": {
+        "vertical": {
+          "value": "{size.dim.16}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "value": "{size.dim.12}",
+          "type": "spacing"
+        }
+      }
+    },
+    "radius": {
+      "checkbox": {
+        "textArea": {
+          "value": "{size.radius.s}",
+          "type": "borderRadius"
+        },
+        "box": {
+          "value": "{size.radius.xs}",
+          "type": "borderRadius"
+        },
+        "radio": {
+          "value": "{size.radius.xl}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "bwidth": {
+      "checkbox": {
+        "default": {
+          "value": "{size.bwidth.s}",
+          "type": "borderWidth"
+        }
+      }
+    }
+  }
+}

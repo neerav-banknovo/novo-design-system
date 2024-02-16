@@ -1,0 +1,58 @@
+{
+  "color": {
+    "bg": {
+      "switch": {
+        "inactive": {
+          "value": "{color.ntrl.500}",
+          "type": "color"
+        },
+        "hoverInactive": {
+          "value": "{color.ntrl.700}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{color.blue.500}",
+          "type": "color"
+        },
+        "hoverActive": {
+          "value": "{color.blue.700}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.ntrl.100}",
+          "type": "color"
+        }
+      }
+    },
+    "indicator": {
+      "switch": {
+        "default": {
+          "value": "{color.white.0}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.ntrl.300}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "size": {
+    "radius": {
+      "switch": {
+        "default": {
+          "value": "{size.radius.xl}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "bwidth": {
+      "switch": {
+        "default": {
+          "value": "{size.bwidth.s}",
+          "type": "borderWidth"
+        }
+      }
+    }
+  }
+}
