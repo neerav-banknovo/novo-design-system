@@ -3,7 +3,7 @@ SubModule
 
 This starter project has everything you need to get started. 
 
-## How it works.....
+## How it works
 
 All of the design tokens and assets are in this package. Make any changes to suit your needs. This package has iOS, Android, and web code.
 
